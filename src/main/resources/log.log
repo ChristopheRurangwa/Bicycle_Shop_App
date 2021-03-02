@@ -1,0 +1,208 @@
+2021-02-08 23:26:22 DEBUG AppDriver:91 - Data Employee credentials stored in database...
+2021-02-08 23:27:18 DEBUG AppDriver:91 - Data Employee credentials stored in database...
+2021-02-08 23:49:04 DEBUG AppDriver:98 - Employee [name=jhjh, email=yh, role=null, password=hjh, id=null]
+2021-02-09 00:00:00 DEBUG AppDriver:101 - Employee [name=hghg, email=gh, role=null, password=jkhj, id=null]
+2021-02-09 00:19:46 DEBUG AppDriver:102 - Employee [name=jhjhjh, email=jhjhj, password=kjkjk, id=null, role=null]
+2021-02-09 00:24:04 DEBUG AppDriver:102 - Employee [name=jhjhjhjhjhjhjhjghgffgvhbhjb, email=uyuh, password=jhjh, id=null, role=null]
+2021-02-09 01:01:11 DEBUG AppDriver:109 - Employee [name=kjfkdjf, email=jjdfkj, password=jfkdkfjkd, id=null, role=null]
+2021-02-09 01:30:02 DEBUG AppDriver:109 - Employee [name=DJKFKDJFKJ, email=JKDJ, password=JKDJFKJKDJF, id=null, role=null]
+2021-02-09 01:33:39 DEBUG AppDriver:109 - Employee [name=KJFJKJKDJFKJDKFJKDJFKDHGKJHKJDF, email=GRMAO@YAHOO.COM, password=MON PALS, id=null, role=null]
+2021-02-09 02:12:48 DEBUG AppDriver:109 - Employee [name=fjkdjfk, email=yellow@hdhf.col, password=kjdfj, id=null, role=null]
+2021-02-09 10:33:36 DEBUG AppDriver:105 - Employee [name=jfdjfkjkjk, email=hello@yous.coj, password=jajkjjkdjfkj, id=null, role=null]
+2021-02-09 11:48:05 DEBUG AppDriver:105 - Employee [name=KDKDKDKDKDHGDFHGJH, email=CHRIS, password=KDKDKDK, id=null, role=null]
+2021-02-09 11:49:02 DEBUG AppDriver:105 - Employee [name=KJJFKDJFKJDFKJKJF, email=CHRIS, password=2SND JFKDJFKDJF, id=null, role=null]
+2021-02-09 11:52:38 DEBUG AppDriver:105 - Employee [name=DFJDF, email=HELLO, password=JDJJK, id=null, role=null]
+2021-02-09 11:58:35 DEBUG AppDriver:105 - Employee [name=TRIAL, email=REDA@GY.JDK, password=WIEITI997KI, id=null, role=null]
+2021-02-09 23:18:51 DEBUG AppDriver:107 - Employee [name=Reakdk, email=chris@uiu.com, password=Nickellsd, id=null, role=null]
+2021-02-10 00:41:41 DEBUG AppDriver:107 - Employee [name=kjfkdjf, email=jkfdjfk, password=ekjkdjfkj, id=null, role=null]
+2021-02-10 03:10:44 DEBUG AppDriver:123 - Employee [name=dssssss, email=green, password=123, id=null, role=null]
+2021-02-10 10:16:00 DEBUG AppDriver:123 - Employee [name=kjd, email=redd, password=123, id=null, role=null]
+2021-02-10 11:34:30 DEBUG AppDriver:123 - Employee [name=d, email=lf, password=df, id=null, role=null]
+2021-02-10 11:41:36 DEBUG AppDriver:123 - Employee [name=d, email=hhh, password=123, id=null, role=null]
+2021-02-10 16:48:37 DEBUG AppDriver:123 - Employee [name=chr, email=test1, password=123, id=null, role=null]
+2021-02-10 19:05:52 DEBUG AppDriver:123 - Employee [name=123, email=tew, password=tew, id=null, role=null]
+2021-02-10 19:26:32 DEBUG AppDriver:123 - Employee [name=re, email=re, password=re, id=null, role=null]
+2021-02-10 19:39:11 DEBUG AppDriver:123 - Employee [name=fkjd, email=wee, password=123, id=null, role=null]
+2021-02-10 23:42:42 DEBUG AppDriver:194 - Employee [name=go, email=go, password=go, id=null, role=null]
+2021-02-10 23:47:55 DEBUG AppDriver:194 - Employee [name=te, email=te, password=te, id=null, role=null]
+2021-02-10 23:59:52 DEBUG AppDriver:194 - Employee [name=hills, email=kennedy@johns.com, password=343, id=null, role=null]
+2021-02-11 00:37:31 DEBUG AppDriver:194 - Employee [name=jkf, email=re, password=re, id=null, role=null]
+2021-02-11 00:39:01 DEBUG AppDriver:194 - Employee [name=re, email=re, password=re, id=null, role=null]
+2021-02-11 00:40:24 DEBUG AppDriver:194 - Employee [name=rerk, email=re, password=re, id=null, role=null]
+2021-02-11 02:41:29 DEBUG AppDriver:211 - Employee [name=123, email=trix, password=123, id=null, role=null]
+2021-02-11 02:43:20 DEBUG AppDriver:211 - Employee [name=T, email=T, password=T, id=null, role=null]
+2021-02-11 02:53:00 DEBUG AppDriver:211 - Employee [name=g, email=g, password=g, id=null, role=null]
+2021-02-11 03:22:01 DEBUG AppDriver:215 - Employee [name=123, email=well, password=123, id=null, role=null]
+2021-02-11 03:24:11 DEBUG AppDriver:215 - Employee [name=t, email=t, password=t, id=null, role=null]
+2021-02-11 03:36:46 DEBUG AppDriver:215 - Employee [name=re, email=ken, password=three, id=null, role=null]
+2021-02-11 03:46:00 DEBUG AppDriver:215 - Employee [name=ch, email=chris, password=123, id=null, role=null]
+2021-02-11 03:47:24 DEBUG AppDriver:215 - Employee [name=kfdjkdf, email=jkkjdfkj, password=kjfkdfjkdjf, id=null, role=null]
+2021-02-11 03:47:45 DEBUG AppDriver:215 - Employee [name=dfkjfkdjfkdj, email=jkdjf, password=dfkfjkj, id=null, role=null]
+2021-02-11 03:48:25 DEBUG AppDriver:215 - Employee [name=123, email=red, password=123, id=null, role=null]
+2021-02-11 04:50:25 DEBUG AppDriver:215 - Employee [name=hello, email=myname, password=chris, id=null, role=null]
+2021-02-11 04:51:08 DEBUG AppDriver:215 - Employee [name=tvsjjk, email=tele, password=vision, id=null, role=null]
+2021-02-11 20:57:18 DEBUG AppDriver:215 - Employee [name=UserEve, email=userzero@nation.com, password=userX0099009910, id=null, role=null]
+2021-02-11 20:59:05 DEBUG AppDriver:215 - Employee [name=testing, email=test, password=123, id=null, role=null]
+2021-02-11 22:42:08 DEBUG AppDriver:215 - Employee [name=ru, email=ru, password=ru, id=null, role=null]
+2021-02-12 02:23:20 DEBUG AppDriver:215 - Employee [name=tree, email=tree, password=tree, id=null, role=null]
+2021-02-12 02:25:18 DEBUG AppDriver:215 - Employee [name=re, email=re, password=re, id=null, role=null]
+2021-02-12 02:26:25 DEBUG AppDriver:215 - Employee [name=re, email=re, password=re, id=null, role=null]
+2021-02-12 02:29:14 DEBUG AppDriver:215 - Employee [name=tr, email=tr, password=tr, id=null, role=null]
+2021-02-12 02:55:34 DEBUG AppDriver:215 - Employee [name=tt, email=ttt, password=t, id=null, role=null]
+2021-02-12 12:29:00 DEBUG AppDriver:215 - Employee [name=ch, email=ch, password=ch, id=null, role=null]
+2021-02-12 14:41:17 DEBUG AppDriver:215 - Employee [name=we, email=we, password=we, id=null, role=null]
+2021-02-13 03:51:54 DEBUG AppDriver:215 - Employee [name=ch, email=ch, password=ch, id=null, role=null]
+2021-02-13 13:32:48 DEBUG AppDriver:215 - Employee [name=d, email=ch, password=ch, id=null, role=null]
+2021-02-13 17:57:57 DEBUG AppDriver:215 - Employee [name=ggre, email=red, password=red, id=null, role=null]
+2021-02-13 18:09:14 DEBUG AppDriver:215 - Employee [name=ch, email=ch, password=ch, id=null, role=null]
+2021-02-14 01:00:46 DEBUG AppDriver:215 - Employee [name=cl, email=ch, password=ch, id=null, role=null]
+2021-02-14 17:10:34 INFO  AppDriver:299 - Wrong selection was entered
+2021-02-14 17:11:07 INFO  UpdatingAndRetrievingData:65 - success in displaying bikes
+2021-02-14 17:20:30 INFO  UpdatingAndRetrievingData:65 - success in displaying bikes
+2021-02-14 18:07:26 INFO  StoreConnct:174 - wrong character was entered.
+2021-02-14 18:17:12 INFO  StoreConnct:174 - wrong character was entered.
+2021-02-14 18:21:20 WARN  StoreConnct:180 - ERROR: duplicate key value violates unique constraint "shop_fin_rejectedoffer_key"
+  Detail: Key (rejectedoffer)=(5.0) already exists.
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "shop_fin_rejectedoffer_key"
+  Detail: Key (rejectedoffer)=(5.0) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:473)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:393)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.executeUpdate(PgStatement.java:258)
+	at com.rurangwa.data.connection.StoreConnct.offerRejections(StoreConnct.java:137)
+	at com.rurangwa.services.StoreFinancesServices.rejecOffer(StoreFinancesServices.java:44)
+	at com.rurangwa.data.connection.UpdatingAndRetrievingData.retrieveLogInInfoAndVerifies(UpdatingAndRetrievingData.java:154)
+	at com.rurangwa.data.connection.DatabaseConnector.connect(DatabaseConnector.java:54)
+	at com.rurangwa.services.EmployeeServicesImpl.getEmployeeEmailAndPassword(EmployeeServicesImpl.java:37)
+	at com.rurangwa.controller.AppDriver.main(AppDriver.java:141)
+2021-02-14 18:23:24 WARN  StoreConnct:180 - ERROR: duplicate key value violates unique constraint "shop_fin_rejectedoffer_key"
+  Detail: Key (rejectedoffer)=(5.0) already exists.
+2021-02-14 18:30:20 INFO  AppDriver:184 - Inserted wrong entry while selecting on the menu
+2021-02-14 18:50:48 WARN  StoreConnct:232 - ERROR: duplicate key value violates unique constraint "shop_fin_rejectedoffer_key"
+  Detail: Key (rejectedoffer)=(5) already exists.
+2021-02-14 18:51:56 INFO  UpdatingAndRetrievingData:132 - Inserted data to db.
+2021-02-14 19:36:07 INFO  StoreConnct:265 - The column name WEEKLY_PAYMNT was not found in this ResultSet.
+2021-02-14 19:46:01 INFO  StoreConnct:267 - The column name weekly_paymnt was not found in this ResultSet.
+2021-02-14 20:06:46 INFO  StoreConnct:268 - The column name weekly_paymnt was not found in this ResultSet.
+2021-02-15 01:11:07 WARN  StoreConnct:292 - ERROR: syntax error at or near "on"
+  Position: 61
+2021-02-15 01:11:52 WARN  StoreConnct:292 - ERROR: syntax error at or near "on"
+  Position: 61
+2021-02-15 01:13:43 WARN  StoreConnct:292 - ERROR: syntax error at or near "ON"
+  Position: 66
+2021-02-15 01:15:19 WARN  StoreConnct:292 - ERROR: syntax error at or near "ON"
+  Position: 72
+2021-02-15 01:15:40 WARN  StoreConnct:292 - ERROR: syntax error at or near "ON"
+  Position: 72
+2021-02-15 01:16:18 WARN  StoreConnct:292 - A result was returned when none was expected.
+2021-02-15 01:19:30 WARN  StoreConnct:292 - A result was returned when none was expected.
+2021-02-15 02:36:34 WARN  StoreConnct:325 - The column name ID was not found in this ResultSet.
+2021-02-15 02:40:38 WARN  StoreConnct:325 - The column name ID was not found in this ResultSet.
+2021-02-15 02:42:32 WARN  StoreConnct:326 - The column name ID was not found in this ResultSet.
+2021-02-15 02:43:45 WARN  StoreConnct:327 - The column name ID was not found in this ResultSet.
+2021-02-15 02:45:01 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:49:48 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:50:41 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:51:31 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:54:04 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:55:53 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 02:58:22 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 03:07:58 WARN  StoreConnct:327 - This statement has been closed.
+2021-02-15 03:13:41 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:15:48 WARN  StoreConnct:322 - This statement has been closed.
+2021-02-15 03:23:33 WARN  StoreConnct:323 - ERROR: relation "customer" does not exist
+  Position: 15
+2021-02-15 03:24:07 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:25:01 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:29:50 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:30:57 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:31:40 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:32:26 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:37:34 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:53:17 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:54:22 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 03:55:40 WARN  StoreConnct:323 - This statement has been closed.
+2021-02-15 12:09:14 INFO  UpdatingAndRetrievingData:132 - Inserted data to db.
+2021-02-15 12:44:46 DEBUG AppDriver:223 - Employee [name=john, email=tr, password=tr, id=null, role=null]
+2021-02-15 12:48:20 WARN  AddingDataToDB:96 - ERROR: duplicate key value violates unique constraint "manager_email_key"
+  Detail: Key (email)=(ma) already exists.
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "manager_email_key"
+  Detail: Key (email)=(ma) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:473)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:393)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.executeUpdate(PgStatement.java:258)
+	at com.rurangwa.data.connection.AddingDataToDB.insertDataIntoCol(AddingDataToDB.java:87)
+	at com.rurangwa.data.connection.DatabaseConnector.connect(DatabaseConnector.java:44)
+	at com.rurangwa.services.ManagerAdmiServicesImpl.addManager(ManagerAdmiServicesImpl.java:30)
+	at com.rurangwa.controller.AppDriver.main(AppDriver.java:262)
+2021-02-15 15:03:59 INFO  UpdatingAndRetrievingData:133 - Inserted data to db.
+2021-02-15 15:04:49 INFO  UpdatingAndRetrievingData:133 - Inserted data to db.
+2021-02-15 22:27:20 WARN  StoreConnct:194 - ERROR: syntax error at or near "where"
+  Position: 43
+2021-02-15 22:45:17 WARN  StoreConnct:206 - Can't use query methods that take a query string on a PreparedStatement.
+2021-02-15 23:04:15 INFO  StoreConnct:192 - wrong character was entered.
+2021-02-16 10:22:15 WARN  AddingDataToDB:175 - ERROR: relation "employees" does not exist
+  Position: 13
+org.postgresql.util.PSQLException: ERROR: relation "employees" does not exist
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:473)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:393)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.executeUpdate(PgStatement.java:258)
+	at com.rurangwa.data.connection.AddingDataToDB.insertDataIntoCol(AddingDataToDB.java:166)
+	at com.rurangwa.data.connection.DatabaseConnector.connect(DatabaseConnector.java:39)
+	at com.rurangwa.services.EmployeeServicesImpl.addEmployee(EmployeeServicesImpl.java:13)
+	at com.rurangwa.controller.AppDriver.main(AppDriver.java:217)
+2021-02-16 10:22:15 DEBUG AppDriver:223 - Employee [name=sys, email=tester, password=tester, id=null, role=null]
+2021-02-16 10:24:04 WARN  AddingDataToDB:175 - ERROR: relation "employees" does not exist
+  Position: 13
+org.postgresql.util.PSQLException: ERROR: relation "employees" does not exist
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:473)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:393)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.executeUpdate(PgStatement.java:258)
+	at com.rurangwa.data.connection.AddingDataToDB.insertDataIntoCol(AddingDataToDB.java:166)
+	at com.rurangwa.data.connection.DatabaseConnector.connect(DatabaseConnector.java:39)
+	at com.rurangwa.services.EmployeeServicesImpl.addEmployee(EmployeeServicesImpl.java:13)
+	at com.rurangwa.controller.AppDriver.main(AppDriver.java:217)
+2021-02-16 10:24:04 DEBUG AppDriver:223 - Employee [name=tester, email=tester, password=tester, id=null, role=null]
+2021-02-16 10:26:49 DEBUG AppDriver:223 - Employee [name=sys., email=tester, password=tester, id=null, role=null]
+2021-02-16 13:22:44 DEBUG AppDriver:223 - Employee [name=you, email=tester, password=tester, id=null, role=null]
+2021-02-16 18:49:28 WARN  StoreConnct:49 - ERROR: column "customers_name" of relation "shop_fin" does not exist
+  Position: 29
+2021-02-16 18:56:18 WARN  StoreConnct:193 - ERROR: syntax error at or near "ORDER"
+  Position: 92
+2021-02-16 19:03:49 DEBUG AppDriver:223 - Employee [name=chris, email=test@yahoo.com, password=mycode, id=null, role=null]
+2021-02-16 20:53:27 WARN  StoreConnct:74 - ResultSet not positioned properly, perhaps you need to call next.
+2021-02-17 01:47:14 DEBUG AppDriver:223 - Employee [name=tester, email=test@g.net, password=hhh, id=null, role=null]
+2021-02-17 02:25:18 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 02:27:16 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 02:27:53 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 02:28:55 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 02:30:04 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 02:31:18 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
+2021-02-17 03:23:50 WARN  StoreConnct:331 - This statement has been closed.
+2021-02-17 10:32:48 DEBUG AppDriver:233 - Employee [name=dd, email=tt, password=dd, id=null]
+2021-02-17 10:35:53 INFO  UpdatingAndRetrievingData:134 - Inserted data to db.
